@@ -1,3 +1,10 @@
+# Dicoding Submission Memulai Pemrograman dengan Kotlin
+- Course: Memulai Pemrograman dengan Kotlin
+- Link: [https://www.dicoding.com/academies/80/](https://www.dicoding.com/academies/80/)
+- Submission: Proyek Akhir
+- Dikirim pada: 30-Nov-2023 10:36:52
+
+
 # Proyek Submission MPK 
 
 **Aturan mengerjakan submission**<br>
